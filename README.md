@@ -1,4 +1,4 @@
-![logo](https://github.com/Waruni-sandareka/Waruni-sandareka/blob/main/White%20Simple%20Woman%20Photo%20Sale%20or%20Business%20Women's%20Beauty%20Facebook%20Cover.png)
+![logo](https://github.com/Waruni-sandareka/Waruni-sandareka/blob/main/Minimalist%20Handwriting%20Script%20Motivational%20Quote%20Twitter%20Header%20(1).png)
 <h1 align="center">Hi 👋, I'm Waruni Sandareka</h1>
 <h3 align="center">passionate about Software Development.</h3>
 
