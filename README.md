@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waruni-sandareka&show_icons=true&locale=en" alt="waruni-sandareka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waruni-sandareka&" alt="waruni-sandareka" /></p>
+
+![Build Status](https://img.shields.io/travis/user/repo.svg)
+
